@@ -40,7 +40,7 @@ $ yarn start
 
 - Liste as tarefas e exclu-as arrastando da direita para a esquerda na opção 'listar tarefas'.
 
--Edite uma tarefa clicando sobre a desejada na listagem de tarefas.
+- Edite uma tarefa clicando sobre a desejada na listagem de tarefas.
 
 [Backend](https://github.com/biancabarbosa23/Trab2-NodeJs.git)
 
@@ -52,7 +52,7 @@ $ yarn start
 
 ## Licença
  
- -Nenhuma
+ - Nenhuma
 
 ## Agradecimentos
 
